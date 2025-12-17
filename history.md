@@ -21,5 +21,3 @@ permalink: /history/
 </a>
 
 </div>
-```markdown
----
